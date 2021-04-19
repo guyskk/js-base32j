@@ -1,0 +1,26 @@
+{
+  "name": "js-base32j",
+  "version": "0.0.1",
+  "description": "Base32 exclude letter i j l o, without padding.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest -i"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyskk/js-base32j.git"
+  },
+  "keywords": [
+    "base32"
+  ],
+  "author": "guyskk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guyskk/js-base32j/issues"
+  },
+  "homepage": "https://github.com/guyskk/js-base32j",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "jest": "^26.6.3"
+  }
+}
