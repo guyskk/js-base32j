@@ -1,6 +1,6 @@
 ## JS-Base32j
 
-Base32 exclude letter `i j l o`, without padding.
+Base32 exclude letter `i j l o`, without padding.  
 Alphabet: `0123456789abcdefghkmnpqrstuvwxyz`
 
 ```
