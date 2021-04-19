@@ -36,4 +36,5 @@ function decode(value) {
   return decodeUtf8(decodeBytes(value));
 }
 
+export { encodeBytes, decodeBytes, encode, decode };
 export default { encodeBytes, decodeBytes, encode, decode };

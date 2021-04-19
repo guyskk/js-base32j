@@ -1,0 +1,5 @@
+**
+!dist/*.js
+!dist/*.d.ts
+!README.md
+!package.json
